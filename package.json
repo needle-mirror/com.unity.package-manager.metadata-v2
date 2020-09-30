@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata-v2",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests. This is intended for Unity 2020.1.x and ulterior versions, please use the original `com.unity.package-manager.metadata` for previous versions of Unity.",
   "devDependencies": {
     "request": "^2.88.2",
@@ -62,6 +62,7 @@
     "com.unity.test-framework",
     "com.unity.textmeshpro",
     "com.unity.timeline",
+    "com.unity.ugui",
     "com.unity.ui.builder",
     "com.unity.visualeffectgraph",
     "com.unity.xiaomi",
