@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata-v2",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests. This is intended for Unity 2020.1.x and ulterior versions, please use the original `com.unity.package-manager.metadata` for previous versions of Unity.",
   "devDependencies": {
     "request": "^2.88.2",
@@ -20,6 +20,7 @@
     "com.unity.adaptiveperformance.samsung.android",
     "com.unity.addressables",
     "com.unity.ads",
+    "com.unity.ads.ios-support",
     "com.unity.analytics",
     "com.unity.animation.rigging",
     "com.unity.burst",
