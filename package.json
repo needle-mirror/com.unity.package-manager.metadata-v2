@@ -1,6 +1,6 @@
 {
   "name": "com.unity.package-manager.metadata-v2",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "Contains metadata used by the com.unity.package-manager package to fulfill client requests. This is intended for Unity 2020.1.x and ulterior versions, please use the original `com.unity.package-manager.metadata` for previous versions of Unity.",
   "devDependencies": {
     "request": "^2.88.2",
@@ -59,6 +59,15 @@
     "com.unity.render-pipelines.high-definition",
     "com.unity.render-pipelines.universal",
     "com.unity.scriptablebuildpipeline",
+    "com.unity.services.analytics",
+    "com.unity.services.authentication",
+    "com.unity.services.ccd.management",
+    "com.unity.services.cloudcode",
+    "com.unity.services.cloudsave",
+    "com.unity.services.economy",
+    "com.unity.services.lobby",
+    "com.unity.services.relay",
+    "com.unity.services.vivox",
     "com.unity.shadergraph",
     "com.unity.terrain-tools",
     "com.unity.testtools.codecoverage",
